@@ -23,6 +23,11 @@
   }
 
   .fa-envelope-o{
-    background: #007bb5;
+    background: #34495e;
+    color: white;
+  }
+
+  .fa-github{
+    background: #2c3e50;
     color: white;
   }
