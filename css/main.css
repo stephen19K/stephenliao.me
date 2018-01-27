@@ -32,6 +32,11 @@
     color: white;
   }
 
+  .fa-sun-o{
+    background: gold;
+    color: white;
+  }
+
   /* Photo formatting */
   .profile-picture {
     height: 100%;
