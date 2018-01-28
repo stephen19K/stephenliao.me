@@ -18,22 +18,30 @@
   }
 
   .fa-linkedin{
-    background: #007bb5;
+    background: cornflowerblue;
+    /* background: #007bb5; */
     color: white;
   }
 
   .fa-envelope-o{
-    background: #34495e;
+    background: cornflowerblue;
+    /* background: #34495e; */
     color: white;
   }
 
   .fa-github{
-    background: #2c3e50;
+    background: cornflowerblue;
+    /* background: #2c3e50; */
     color: white;
   }
 
   .fa-sun-o{
-    background: gold;
+    background: cornflowerblue;  /* gold; */
+    color: white;
+  }
+
+  .fa-file-pdf-o{
+    background: cornflowerblue;
     color: white;
   }
 
