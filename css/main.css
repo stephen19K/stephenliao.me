@@ -12,9 +12,10 @@
     text-decoration: none;
     margin: 5px 2px;
   }
-  
+
   .fa:hover{
-      opacity: 0.7;
+      opacity: 0.9;
+      color: black;
   }
 
   .fa-linkedin{
@@ -41,6 +42,11 @@
   }
 
   .fa-file-pdf-o{
+    background: cornflowerblue;
+    color: white;
+  }
+
+  .fa-eye{
     background: cornflowerblue;
     color: white;
   }
